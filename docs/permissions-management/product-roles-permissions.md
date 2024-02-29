@@ -49,7 +49,7 @@ Remediation
 - To make changes in the **Remediation** tab, you must have *Controller* or *Approver* permissions.
 
 Autopilot
-- To view and make changes in the **Autopilot** tab, you must be a *Permissions Management Administrator*.
+- To view and make changes in the **Autopilot** tab, you must be a *Admin for all authorization system types*.
 
 Alert
 - Any user (admin, nonadmin) can create an alert. 
